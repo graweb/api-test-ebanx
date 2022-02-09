@@ -21,7 +21,7 @@ Thank you for considering contributing to Lumen! The contribution guide can be f
 
 <p>1 - Clone the repository</p>
 <p>2 - Install composer (composer install)</p>
-<p>3 - If the database (database.sqlite) in database folder does not exists, you need to create</p>
+<p>3 - Create the database (database.sqlite) in database folder</p>
 <p>4 - Create the .env file (copy .env.example)</p>
 <p>5 - Install migrations (php artisan migrate)</p>
 <p>6 - Run serve (php artisan serve)</p>
